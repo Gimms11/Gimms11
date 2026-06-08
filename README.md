@@ -28,10 +28,8 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 
 ## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gimms11&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimms11&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" />
-</p>
+![Estadísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=Gimms11&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gimms11&layout=compact&theme=radical)
 
 ## 💼 Proyectos Destacados
 
